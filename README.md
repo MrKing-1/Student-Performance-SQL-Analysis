@@ -2,12 +2,6 @@
 SQL project analyzing student performance, academic metrics, attendance patterns, study hours, and performance categorization using database queries.
 
 
-
-
-# Student Performance SQL Analysis
-
-SQL project analyzing student academic performance, attendance, study habits, and performance categories.
-
 ## Project Overview
 
 This project demonstrates SQL data analysis skills by creating a student database, inserting records, retrieving information, filtering data, performing aggregations, and generating analytical insights.
